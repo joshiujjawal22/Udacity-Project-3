@@ -1,4 +1,4 @@
-# Weather-Journal App# Weather-Journal App Project
+# Weather-Journal App Project
 
 ## Overview
 This project uses both end-user input (zip code and user's feelings) 
