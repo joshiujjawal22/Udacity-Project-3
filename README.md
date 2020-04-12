@@ -22,6 +22,10 @@ Process:
 
 ## Instructions
 a) Get Udacity-provided project code 
-b) Locally NodeJS is installed then run 'npm i' from your terminal at the top level project directory.
+b) Locally NodeJS is installed then run 'npm i or npm install' from your terminal at the top level project directory.
 c) After that To run the local server enter 'npm start'
  from your terminalc) Enter a (India-based) zip code in form of '{zipcode}', e.g., '249407' then click Generate button
+-->
+ - ```npm install```
+- ```npm start``` to start the app
+- this app runs on localhost:8080, but you can of course edit that in server.js
